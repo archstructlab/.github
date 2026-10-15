@@ -10,4 +10,3 @@ We work on architectural structures, prefabrication and digital fabrication.
 
 - Website: [archstructlab.com](https://archstructlab.com)
 - dABC page: [AS_Lab at dABC](https://www.dabc.polimi.it/it/le-unita/as-lab)
-- Site source: [archstructlab.github.io](https://github.com/archstructlab/archstructlab.github.io)
